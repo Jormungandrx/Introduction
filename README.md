@@ -1,1 +1,1 @@
-# Introduction
+### I am a beginner programmer with interest in eventually making robots when I am competent enough. My hobbies currently including working out, bouldering, running, snowboarding (just starting out), making music (just starting out) and eventually judo. A dream of mine would be to make a game where it's impacts are based on two robots I end up making that will clash with each other, steel on steel. Of course I would be fine tuning all aspects of the game, especially the soundtrack.
